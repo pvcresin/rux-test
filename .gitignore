@@ -33,3 +33,6 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+##### ONLOAD BUILD ARTIFACTS (AUTO-GENERATED) #####
+app/components/name_component.rb
+##### END ONLOAD BUILD ARTIFACTS #####
